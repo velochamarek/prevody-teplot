@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Převody jednotek teploty</title>
+</head>
+<body>
+    <h1 class="nadpis">PŘEVODY JEDNOTEK</h1>
+
+    <h2>Teplota</h2>
+    <div class="kalkulackaT">
+        <input id="zadaniT" type="number">
+
+        <select name="jednotkyT" id="jednotkyT">
+            <option value="c">°C</option>
+            <option value="f">°F</option>
+            <option value="k">K</option>
+        </select>
+
+        <button id="seRovnaT" onclick="seRovnaT()">=</button>
+        
+        <input id="vysledek" type="number" readonly>
+
+        <select name="jednotkyVysledekT" id="jednotkyVysledekT">
+            <option value="c">°C</option>
+            <option value="f">°F</option>
+            <option value="k">K</option>
+        </select>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

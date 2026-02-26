@@ -1,0 +1,70 @@
+body {
+    background-color: #CADCFC;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+.nadpis {
+    background-color: #00246B;
+    max-width: 800px;
+    color: white;
+    margin: auto;
+    padding: 100px 0 100px 0;
+    border-radius: 50px;
+}
+
+h2 {
+    margin: 50px 0 0 0;
+    color: #00246B;
+}
+
+.kalkulackaT {
+    margin: 20px 0 0 0;
+    padding: 10px 0 10px 0;
+    font-size: 30px;
+}
+
+#zadaniT {
+    background-color: #00246B;
+    color: white;
+    height: 95px;
+    width: 120px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#jednotkyT {
+    background-color: #00246B;
+    color: white;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#seRovnaT {
+    background-color: #00246B;
+    color: white;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#vysledek {
+    background-color: #00246B;
+    color: white;
+    height: 95px;
+    width: 120px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#jednotkyVysledekT {
+    background-color: #00246B;
+    color: white;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    font-size: 30px;
+}
