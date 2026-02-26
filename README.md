@@ -14,5 +14,8 @@ Jednoduchá webová aplikace pro převod teplot mezi:
 - Ošetření neplatného vstupu
 - Jednoduché uživatelské rozhraní
 
+## Live Demo
+- https://velochamarek.github.io/prevody-teplot/
+
 ## Autor
 Marek Velocha
