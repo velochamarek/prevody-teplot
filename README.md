@@ -4,7 +4,7 @@ Jednoduchá webová aplikace pro převod teplot mezi:
 - Fahrenheit
 - Kelvin
 
-## Použité technologie
+## Použité jazyky
 - HTML
 - CSS
 - JavaScript
@@ -15,4 +15,4 @@ Jednoduchá webová aplikace pro převod teplot mezi:
 - Jednoduché uživatelské rozhraní
 
 ## Autor
-Tvoje jméno
+Marek Velocha
