@@ -1,7 +1,7 @@
 body {
-    background: radial-gradient(circle, #9198f8, #4578cf);
+    background: radial-gradient(circle, #00b4d8, #0077b6);
     text-align: center;
-    font-family: Helvetica;
+    font-family: "Lexend", Helvetica;
 }
 
 .nadpis {
@@ -23,46 +23,56 @@ h2 {
 }
 
 #zadaniT {
-    background-color: #00246B;
-    color: white;
+    background-color: #90e0ef;
+    color: #03045e;
     height: 95px;
     width: 120px;
     text-align: center;
+    font-family: "Lexend", Helvetica;
     font-size: 30px;
+    border-radius: 20%;
 }
 
 #jednotkyT {
-    background-color: #00246B;
-    color: white;
+    background-color: #90e0ef;
+    color: #03045e;
     height: 100px;
     width: 100px;
     text-align: center;
+    font-family: "Lexend", Helvetica;
     font-size: 30px;
+    border-radius: 20%;
 }
 
 #seRovnaT {
-    background-color: #00246B;
-    color: white;
+    background-color: #90e0ef;
+    color: #03045e;
     height: 100px;
     width: 100px;
     text-align: center;
+    font-family: "Lexend", Helvetica;
     font-size: 30px;
+    border-radius: 20%;
 }
 
 #vysledek {
-    background-color: #00246B;
-    color: white;
+    background-color: #90e0ef;
+    color: #03045e;
     height: 95px;
     width: 120px;
     text-align: center;
+    font-family: "Lexend", Helvetica;
     font-size: 30px;
+    border-radius: 20%;
 }
 
 #jednotkyVysledekT {
-    background-color: #00246B;
-    color: white;
+    background-color: #90e0ef;
+    color: #03045e;
     height: 100px;
     width: 100px;
     text-align: center;
+    font-family: "Lexend", Helvetica;
     font-size: 30px;
+    border-radius: 20%;
 }
