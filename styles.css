@@ -17,18 +17,22 @@ h2 {
 }
 
 .kalkulackaT {
-    margin: 20px 0 0 0;
-    padding: 10px 0 10px 0;
-    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    gap: 10px;
 }
 
 #zadaniT, #jednotkyT, #seRovnaT, #vysledek, #jednotkyVysledekT {
-    background-color: #90e0ef;
-    color: #03045e;
+    background: rgba(0, 0, 0, 0.3);
+    color: white;
     height: 95px;
     width: 120px;
     text-align: center;
     font-family: "Lexend", Helvetica;
     font-size: 30px;
     border-radius: 20%;
+    cursor: pointer;
+    border: none;
 }
