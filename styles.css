@@ -22,55 +22,11 @@ h2 {
     font-size: 30px;
 }
 
-#zadaniT {
+#zadaniT, #jednotkyT, #seRovnaT, #vysledek, #jednotkyVysledekT {
     background-color: #90e0ef;
     color: #03045e;
     height: 95px;
     width: 120px;
-    text-align: center;
-    font-family: "Lexend", Helvetica;
-    font-size: 30px;
-    border-radius: 20%;
-}
-
-#jednotkyT {
-    background-color: #90e0ef;
-    color: #03045e;
-    height: 100px;
-    width: 100px;
-    text-align: center;
-    font-family: "Lexend", Helvetica;
-    font-size: 30px;
-    border-radius: 20%;
-}
-
-#seRovnaT {
-    background-color: #90e0ef;
-    color: #03045e;
-    height: 100px;
-    width: 100px;
-    text-align: center;
-    font-family: "Lexend", Helvetica;
-    font-size: 30px;
-    border-radius: 20%;
-}
-
-#vysledek {
-    background-color: #90e0ef;
-    color: #03045e;
-    height: 95px;
-    width: 120px;
-    text-align: center;
-    font-family: "Lexend", Helvetica;
-    font-size: 30px;
-    border-radius: 20%;
-}
-
-#jednotkyVysledekT {
-    background-color: #90e0ef;
-    color: #03045e;
-    height: 100px;
-    width: 100px;
     text-align: center;
     font-family: "Lexend", Helvetica;
     font-size: 30px;
